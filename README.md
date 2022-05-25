@@ -9,9 +9,9 @@ The second and third rows: Recovered global shutter videos by RSSR ([ICCV2021](h
 
 <img src="result_demo/fountain_overlay.png" width='280px'/> <img src="result_demo/bus_overlay.png" width='280px'/>
 
-<img src="result_demo/fountain_rssr.gif" width='280px'/> <img src="result_demo/fountain_cvr.gif" width='280px'/>
+<img src="result_demo/fountain_overlay.png" width='280px'/> <img src="result_demo/fountain_rssr.gif" width='280px'/> <img src="result_demo/fountain_cvr.gif" width='280px'/>
 
-<img src="result_demo/bus_rssr.gif" width='280px'/> <img src="result_demo/bus_cvr.gif" width='280px'/>
+<img src="result_demo/bus_overlay.png" width='280px'/> <img src="result_demo/bus_rssr.gif" width='280px'/> <img src="result_demo/bus_cvr.gif" width='280px'/>
 
 
 ## Installation
