@@ -40,7 +40,7 @@ cd ./reblur_package
 python setup.py install
 ```
 ## Demo with our pretrained model
-Please download the [pretrained model](https://drive.google.com/drive/folders/11aciusk4wBfKffgoflywKVZTpDW_QdtS?usp=sharing), including network models of RSSR, CVR, and CVR*, respectively. Then unzip these three subfolders to the `model_weights` folder of the main directory.
+Please download the [pretrained model](https://drive.google.com/drive/folders/11aciusk4wBfKffgoflywKVZTpDW_QdtS?usp=sharing), including network models of [RSSR](https://github.com/GitCVfb/RSSR), CVR, and CVR*, respectively. Then unzip these three subfolders to the `model_weights` folder of the main directory.
 
 You can now test our method with the provided images in the `demo` folder.
 
