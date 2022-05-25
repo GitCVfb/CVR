@@ -1,0 +1,12 @@
+numpy==1.15.0
+tensorboardX==1.6
+Pillow==7.1.2
+scikit-image==0.14.1
+torchvision==0.7.0
+meshzoo==0.4.3
+path==13.1.0
+opencv==3.1.0
+imageio==2.9.0
+scipy==1.1.0
+cupy==8.2.0
+tqdm==4.54.0
