@@ -5,9 +5,11 @@ This repository contains the source code for the paper: [Context-Aware Video Rec
 From left to right: overlayed rolling shutter images, recovered global shutter videos by RSSR ([ICCV2021](https://openaccess.thecvf.com/content/ICCV2021/papers/Fan_Inverting_a_Rolling_Shutter_Camera_Bring_Rolling_Shutter_Images_to_ICCV_2021_paper.pdf)) and our CVR (this paper), respectively.
 
 <p align='center'>
-<img src="result_demo/fountain_overlay.png" width='10%'/> <img src="result_demo/fountain_rssr.gif" width='20%'/> <img src="result_demo/fountain_cvr.gif" width='20%'/>
+<img src="result_demo/fountain_overlay.png" width='30%'/> <img src="result_demo/bus_overlay.png" width='30%'/>
+  
+<img src="result_demo/fountain_rssr.gif" width='30%'/> <img src="result_demo/fountain_cvr.gif" width='30%'/>
 
-<img src="result_demo/bus_overlay.png" width='10%'/> <img src="result_demo/bus_rssr.gif" width='20%'/> <img src="result_demo/bus_cvr.gif" width='20%'/>
+<img src="result_demo/bus_rssr.gif" width='30%'/> <img src="result_demo/bus_cvr.gif" width='30%'/>
 </p>
 
 ## Installation
