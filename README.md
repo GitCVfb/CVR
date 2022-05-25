@@ -2,14 +2,14 @@
 
 This repository contains the source code for the paper: [Context-Aware Video Reconstruction for Rolling Shutter Cameras (CVPR2022)](path)
 
-From left to right: overlayed rolling shutter images, recovered global shutter videos by RSSR ([ICCV2021](https://openaccess.thecvf.com/content/ICCV2021/papers/Fan_Inverting_a_Rolling_Shutter_Camera_Bring_Rolling_Shutter_Images_to_ICCV_2021_paper.pdf)) and our CVR (this paper), respectively.
+From left to right: Overlayed rolling shutter images, recovered global shutter videos by RSSR ([ICCV2021](https://openaccess.thecvf.com/content/ICCV2021/papers/Fan_Inverting_a_Rolling_Shutter_Camera_Bring_Rolling_Shutter_Images_to_ICCV_2021_paper.pdf)) and our CVR (this paper), respectively.
 
 <p align='center'>
-<img src="result_demo/fountain_overlay.png" width='30%'/> <img src="result_demo/bus_overlay.png" width='30%'/>
+<img src="result_demo/fountain_overlay.png" width='50%'/> <img src="result_demo/bus_overlay.png" width='50%'/>
   
-<img src="result_demo/fountain_rssr.gif" width='30%'/> <img src="result_demo/fountain_cvr.gif" width='30%'/>
+<img src="result_demo/fountain_rssr.gif" width='50%'/> <img src="result_demo/fountain_cvr.gif" width='50%'/>
 
-<img src="result_demo/bus_rssr.gif" width='30%'/> <img src="result_demo/bus_cvr.gif" width='30%'/>
+<img src="result_demo/bus_rssr.gif" width='50%'/> <img src="result_demo/bus_cvr.gif" width='50%'/>
 </p>
 
 ## Installation
