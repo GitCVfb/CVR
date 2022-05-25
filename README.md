@@ -6,7 +6,7 @@ From left to right: Overlayed rolling shutter images, recovered global shutter v
 
 <img src="result_demo/fountain_overlay.png" width='260px'/> <img src="result_demo/fountain_rssr.gif" width='260px'/> <img src="result_demo/fountain_cvr.gif" width='260px'/>
 
-<img src="result_demo/bus_overlay.png" width='260px'/> <img src="result_demo/bus_rssr.gif" width='280px'/> <img src="result_demo/bus_cvr.gif" width='260px'/>
+<img src="result_demo/bus_overlay.png" width='260px'/> <img src="result_demo/bus_rssr.gif" width='260px'/> <img src="result_demo/bus_cvr.gif" width='260px'/>
 
 
 ## Installation
