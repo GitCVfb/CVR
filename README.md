@@ -6,9 +6,11 @@ From left to right: Overlayed rolling shutter images, recovered global shutter v
 
 <p align='center'>
 <img src="result_demo/fountain_overlay.png" width='50%'/> <img src="result_demo/bus_overlay.png" width='50%'/>
-  
+</p>
+<p align='center'>
 <img src="result_demo/fountain_rssr.gif" width='50%'/> <img src="result_demo/fountain_cvr.gif" width='50%'/>
-
+</p>
+<p align='center'>
 <img src="result_demo/bus_rssr.gif" width='50%'/> <img src="result_demo/bus_cvr.gif" width='50%'/>
 </p>
 
