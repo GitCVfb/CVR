@@ -48,7 +48,7 @@ You can now test our method with the provided images in the `demo` folder.
 Note that our CVR can be tested directly.
 To test CVR*, you need to change the weight's path (--log_dir) and the model's type (--model_type) in files `demo.sh`, `demo_video.sh`, and `inferencce.sh`.
 
-To generate the global shutter images corresponding to times 0.5 and 1.0, simply run
+To generate the global shutter images corresponding to time steps 0.5 and 1.0, simply run
 ```
 sh demo.sh
 ```
