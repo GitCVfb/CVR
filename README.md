@@ -1,6 +1,6 @@
 # Context-Aware Video Reconstruction for Rolling Shutter Cameras
 
-This repository contains the source code for the paper: [Context-Aware Video Reconstruction for Rolling Shutter Cameras (CVPR2022)](path).
+This repository contains the source code for the paper: [Context-Aware Video Reconstruction for Rolling Shutter Cameras (CVPR2022)](https://arxiv.org/pdf/2205.12912.pdf).
 Given two rolling shutter frames ${\mathbf I}^r_0$ and ${\mathbf I}^r_1$ at adjacent times 0 and 1, the proposed CVR can synthesize a high-quality intermediate global shutter frame $\hat{\mathbf I}_t^g$ corresponding to any time $t \in [0,1]$, i.e., generating a smooth and coherent global shutter video.
 
 From left to right: Overlayed rolling shutter images, recovered global shutter videos by RSSR ([ICCV2021](https://openaccess.thecvf.com/content/ICCV2021/papers/Fan_Inverting_a_Rolling_Shutter_Camera_Bring_Rolling_Shutter_Images_to_ICCV_2021_paper.pdf)) and our CVR (this paper), respectively.
@@ -83,12 +83,20 @@ Note that `--load_1st_GS=0` denotes the correction evaluation corresponding to t
 ## Citations
 Please cite our paper if necessary:
 ```
-@inproceedings{fan_CVR_cvpr22,
+@inproceedings{fan_CVR_CVPR22,
   title={Context-Aware Video Reconstruction for Rolling Shutter Cameras},
   author={Fan, Bin and Dai, Yuchao and Zhang, Zhiyuan and Liu, Qi and He, Mingyi},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
   pages={1--1},
   year={2022}
+}
+
+@inproceedings{fan_RSSR_ICCV21,
+  title={Inverting a rolling shutter camera: bring rolling shutter images to high framerate global shutter video},
+  author={Fan, Bin and Dai, Yuchao},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={4228--4237},
+  year={2021}
 }
 ```
 
