@@ -1,6 +1,7 @@
 # Context-Aware Video Reconstruction for Rolling Shutter Cameras
 
-This repository contains the source code for the paper: [Context-Aware Video Reconstruction for Rolling Shutter Cameras (CVPR2022)](path)
+This repository contains the source code for the paper: [Context-Aware Video Reconstruction for Rolling Shutter Cameras (CVPR2022)](path).
+Given two RS frames ${\mathbf I}^r_0$ and ${\mathbf I}^r_1$ at adjacent times 0 and 1, CVR can synthesize an intermediate GS frame $\hat{\mathbf I}_t^g$ corresponding to time $t \in [0,1]$.
 
 From left to right: Overlayed rolling shutter images, recovered global shutter videos by RSSR ([ICCV2021](https://openaccess.thecvf.com/content/ICCV2021/papers/Fan_Inverting_a_Rolling_Shutter_Camera_Bring_Rolling_Shutter_Images_to_ICCV_2021_paper.pdf)) and our CVR (this paper), respectively.
 
