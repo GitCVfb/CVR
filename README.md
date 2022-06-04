@@ -5,8 +5,9 @@ Given two rolling shutter frames at adjacent times 0 and 1, the proposed CVR can
 
 From left to right: Overlayed rolling shutter images, recovered global shutter videos by RSSR ([ICCV2021](https://openaccess.thecvf.com/content/ICCV2021/papers/Fan_Inverting_a_Rolling_Shutter_Camera_Bring_Rolling_Shutter_Images_to_ICCV_2021_paper.pdf)) and our CVR (this paper), respectively.
 
-![fountain_overlay](/result_demo/fountain_overlay.png) ![fountain_rssr](/result_demo/fountain_rssr.gif) ![fountain_cvr](/result_demo/fountain_cvr.gif)
-![bus_overlay](/result_demo/bus_overlay.png) ![bus_rssr](/result_demo/bus_rssr.gif) ![bus_cvr](/result_demo/bus_cvr.gif)
+<img src="result_demo/fountain_overlay.png" width='190px'/> <img src="result_demo/fountain_rssr.gif" width='190px'/> <img src="result_demo/fountain_cvr.gif" width='190px'/>
+
+<img src="result_demo/bus_overlay.png" width='190px'/> <img src="result_demo/bus_rssr.gif" width='190px'/> <img src="result_demo/bus_cvr.gif" width='190px'/>
 
 ## Installation
 Install the dependent packages:
